@@ -13,6 +13,6 @@ We propose a knee based evolutionary algorithm, named MMO-EvoKnee, which incorpo
 
 Copyright (c) 2018-2020 MaOES Group. You are free to use the Programe for research purposes.
 
-All publications which use this Programe or any code in the Programe should acknowledge the use of "MMO-EvoKnee" and reference "Kai Zhang, Chaonan Shena, Juanjuan He, Gary G.Yen, Knee based multimodal multi-objective evolutionary algorithm for decision making, Information Sciences, Volume 544, 12 January 2021, Pages 39-55. DOI:/10.1016/j.ins.2020.07.057"
+All publications which use this Programe or any code in the Programe should acknowledge the use of "MMO-EvoKnee" and reference "Kai Zhang, Chaonan Shen, Juanjuan He, Gary G.Yen, Knee based multimodal multi-objective evolutionary algorithm for decision making, Information Sciences, Volume 544, 12 January 2021, Pages 39-55. DOI:/10.1016/j.ins.2020.07.057"
 
 https://www.sciencedirect.com/science/article/pii/S0020025520307209?via%3Dihub
